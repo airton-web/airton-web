@@ -40,8 +40,8 @@
 ## 📊 Estatísticas
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=airton-web&show_icons=true&theme=tokyonight">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=airton-web&layout=compact&theme=tokyonight">
+  <img src="https://github-readme-stats.vercel.app/api?username=airton-web&show_icons=true&theme=tokyonight&cache_seconds=86400">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=airton-web&layout=compact&theme=tokyonight&cache_seconds=86400">
 </p>
 
 ---
@@ -54,10 +54,15 @@
 
 ---
 
-## 🌐 Contato
+## 🌐 Contato & Comunidade
 
-<p>
-  <img src="https://img.shields.io/badge/Discord-airton4563-5865F2?style=for-the-badge&logo=discord&logoColor=white">
+<p align="center">
+  <a href="https://discord.com/users/airton4563">
+    <img src="https://img.shields.io/badge/Discord-airton4563-5865F2?style=for-the-badge&logo=discord&logoColor=white">
+  </a>
+  <a href="https://discord.gg/YkgCsqWQSD">
+    <img src="https://img.shields.io/badge/Entrar%20na%20Comunidade-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">
+  </a>
 </p>
 
 ---
