@@ -35,17 +35,6 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 </p>
 
----
-
-## 📊 Estatísticas
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=airton-web&show_icons=true&theme=tokyonight&cache_seconds=86400">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=airton-web&layout=compact&theme=tokyonight&cache_seconds=86400">
-</p>
-
----
-
 ## 🔥 Projetos em destaque
 
 - 🌲 Forest Plugin (sistema customizado para Minecraft)
