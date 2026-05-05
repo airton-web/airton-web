@@ -1,4 +1,4 @@
-<h1 align="center">💜 Airton Dev</h1>
+<h1 align="center">💻 Airton Dev</h1>
 
 <p align="center">
   💻 Desenvolvedor de plugins de Minecraft & Front-end <br>
@@ -56,4 +56,4 @@
 
 ---
 
-<p align="center">💜 Desenvolvendo experiências únicas no Minecraft e na Web</p>
+<p align="center"> 💻 Desenvolvendo experiências únicas no Minecraft e na Web</p>
