@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=airton-web&style=for-the-badge&color=blue">
+  <img src="https://komarev.com/ghpvc/?username=airton-web&style=for-the-badge&color=purple">
   <img src="https://img.shields.io/github/followers/airton-web?style=for-the-badge">
   <img src="https://img.shields.io/github/stars/airton-web?style=for-the-badge">
   <img src="https://img.shields.io/badge/Minecraft-Developer-green?style=for-the-badge">
